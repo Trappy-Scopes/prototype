@@ -43,14 +43,14 @@ flowchart TD
 
 Mean Squared Displacement for an ensamble of $N$ particles (swimmers):
 
-![eq1](/Users/byatharth/.Trash/IBB-Biophysics-Practical/resources/eq1.svg)
+![eq1](./resources/eq1.svg)
 $$
 MSD(t) = \frac {1}{N} \sum_{i=1}^{N} | x_i(t) - x_i(0) |^2
 $$
 
 For n-dimesnions, we have:
 
-![eq2](/Users/byatharth/.Trash/IBB-Biophysics-Practical/resources/eq2.svg)
+![eq2](./resources/eq2.svg)
 $$
 MSD = 2nDt
 $$
